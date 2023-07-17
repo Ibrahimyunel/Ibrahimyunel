@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/react-%2338B2AC.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%2338B2AC.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-23323330.svg?style=for-the-badge&logo=express&logoColor=black) 
-![Flask](https://img.shields.io/badge/flask-%23323330?style=for-the-badge&logo=flask&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white) 
   
 
 
